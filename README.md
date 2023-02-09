@@ -1,4 +1,9 @@
 # Mini-Project
+<b>kaagle</b><br>
+https://www.kaggle.com/code/slehkyi/e-commerce-predicting-sales/notebook<br>
+https://www.kaggle.com/code/admond1994/e-commerce-data-eda<br>
+
+
 <b>References:</b><br>
 [1] Makkar, Sandhya, and SnehaJaiswal. "Predictive Analytics on E-commerce Annual Sales."
 In Proceedings of Data Analytics and Management, pp. 557-567. Springer, Singapore, 2022..<br>
